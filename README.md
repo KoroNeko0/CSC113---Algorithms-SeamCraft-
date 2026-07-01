@@ -131,7 +131,7 @@ SeamCraft/
 
 | Name | Student ID | Contribution |
 |---|---|---|
-| Maha Aldakhil | 444202648 | Brute Force |
+| Maha bin Dakhil | 444202648 | Brute Force |
 | Amina Abdelkareem | 444204580 | Dynamic Programming |
 | Wajd Alquwayi | 443201429 | Greedy |
 
