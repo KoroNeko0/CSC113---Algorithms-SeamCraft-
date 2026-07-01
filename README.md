@@ -137,10 +137,3 @@ SeamCraft/
 | Wajd Alquwayi | 443201429 | Greedy |
 
 ---
-
-## Course Info
-
-CSC311 — Design & Analysis of Algorithms
-King Saud University, College of Computer and Information Science
-Instructor: Dr. Ghada Alnifiel
-Section: 44227
