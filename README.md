@@ -17,7 +17,6 @@ Seam carving resizes an image by removing the least visually important vertical 
 - [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
 - [Team](#team)
-- [Course Info](#course-info)
 
 ---
 
